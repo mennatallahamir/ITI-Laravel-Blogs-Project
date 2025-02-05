@@ -3,6 +3,7 @@
 <div align="center">
   
   
+![blogs](https://github.com/user-attachments/assets/819d87fa-91ec-44f7-ab2d-665c94c266a1)
 
 
   <h2 align="center">Laravel Blogs Project</h2>
