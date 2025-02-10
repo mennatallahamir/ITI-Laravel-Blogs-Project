@@ -12,13 +12,23 @@
   <br>
   Supports CRUD (Create, Read, Update, Delete) functionality for managing articles.
   <br>  <br>
-  This is a coursework project for Field Trainning 1.
+  This is a coursework project for Field Training 1.
 
 </div>
 
+## 📽 Project Video 
+
+
+ 
+
+https://github.com/user-attachments/assets/d6647dfe-6118-43c0-9543-5a01ac6c62b5
+
+
+
+
 ## ⚙ Installation
 
-First clone this repository, install the dependencies.
+First, clone this repository, install the dependencies.
 
 ```
 git clone https://github.com/mennatallahamir/ITI-Laravel-Blogs-Project.git
